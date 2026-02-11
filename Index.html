@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calculator</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <h2>Basic <br/>Personal Calculator</h2>
+        <div class="tank">
+        <div>
+                <input type="text" id="screen" value = "0"/>
+            
+        </div>
+        <div>
+            <button type="button" onclick="exponentiate()">&exponentiale;</button>
+            <button type="button" onclick="backSpace()">&lBarr;</button>
+            <button type="button" onclick="writeNumber(this)">%</button>
+            <button type="button" onclick="writeNumber(this)">&plus;</button>            
+        </div>
+        
+        <div>
+            <button type="button" onclick="writeNumber(this)" id="n1" >1</button>
+            <button type="button" onclick="writeNumber(this)" id="n2">2</button>
+            <button type="button" onclick="writeNumber(this)" id="n3">3</button>
+            <button type="button" onclick="writeNumber(this)">-</button>
+        </div>
+        <div>
+            <button type="button" onclick="writeNumber(this)" id="n4">4</button>
+            <button type="button" onclick="writeNumber(this)" id="n5">5</button>
+            <button type="button" onclick="writeNumber(this)" id="n6">6</button>
+            <button type="button" onclick="writeNumber(this)">/</button>
+        </div>
+        <div>
+            <button type="button" onclick="writeNumber(this)" id="n7">7</button>
+            <button type="button" onclick="writeNumber(this)" id="n8">8</button>
+            <button type="button" onclick="writeNumber(this)" id="n9">9</button>
+            <button type="button" onclick="writeNumber(this)">*</button>
+        </div>
+        <div>
+            <button type="button" onclick="clearAll()">&LeftArrowBar;</button>
+            <button type="button" onclick="writeNumber(this)" id="n0">0</button>
+            <button type="button" id="dot" onclick="writeNumber(this)">.</button>
+            <button type="button" onclick="totalValue()" id="total">&equals;</button>
+        </div>
+    </div>
+    <script src="script.js">
+    </script>
+    </body>
+</html>

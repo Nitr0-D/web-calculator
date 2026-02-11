@@ -1,0 +1,32 @@
+body{
+                background-color: aqua;
+                text-align: center;
+                align-content: center;
+            }
+            .tank{
+                background-color:antiquewhite;
+                width: fit-content;
+                text-align: center;
+                align-content: center;
+                border-radius: 5px 5px 5px 5px;
+                position:relative;
+                justify-self: center;
+            
+            }
+            input{
+               margin: 10px;
+               padding: 12px;
+               border-radius: 4px 4px 4px 4px;
+               font-size: 19px;
+               border-top: 0px solid black; 
+               width: 150px;
+            }
+            
+            button{
+                margin: 7px;
+                font-size: 25px;
+                border: 4px;
+                font-size: 29px;
+                border-radius: 35px 35px 35px 35px;
+                background-color:azure;
+            }

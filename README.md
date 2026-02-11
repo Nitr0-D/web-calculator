@@ -1,15 +1,23 @@
-# web-calculator
-A simple web-based calculator built using vanilla JS, HTML, and CSS. It can perform basic calculations:
-Addition
-Subtraction
-Multiplication
-Division
+# 🚀 web-calculator
 
-This was my first project learning web dev, JS specifically.
+> A brief, one-sentence description of what this project does and why it's awesome.
 
-Any improvements suggested would be appreciated. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
 
-There are many things that could be improved. So, if you have any improvement ideas, please feel free to clone the repo, make that improvement, and make a PR.
+## 🛠 Features
 
-How to clone:
-git clone https://github.com/Nitr0-D/web-calculator.git
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division**
+- **Exponentiation**
+- **Backspace**
+- **Clear Space**
+
+## 📦 Installation
+
+To get started, clone the repository:
+
+git clone https://github.com/user/project-name.git
+cd project-name

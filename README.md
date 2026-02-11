@@ -1,11 +1,11 @@
-# 🚀 web-calculator
+## web-calculator
 
 > A brief, one-sentence description of what this project does and why it's awesome.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
 
-## 🛠 Features
+## Features
 
 - **Addition**
 - **Subtraction**
@@ -15,7 +15,7 @@
 - **Backspace**
 - **Clear Space**
 
-## 📦 Installation
+## Installation
 
 To get started, clone the repository:
 
